@@ -1,0 +1,10 @@
+{
+  "name": "express-links-api",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Ann Siapno <ann.n.siapno@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
